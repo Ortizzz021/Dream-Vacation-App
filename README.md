@@ -43,4 +43,4 @@ This application allows users to create a list of countries they'd like to visit
 - **Security**: Sensitive information is managed using environment variables and Kubernetes Secrets.
 - **Documentation**: The project is well-documented to facilitate onboarding and maintenance.
 
-- ..
+- Hola

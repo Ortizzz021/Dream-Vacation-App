@@ -42,3 +42,5 @@ This application allows users to create a list of countries they'd like to visit
 - **Environment Management**: Separate configurations for different environments (development, staging, production) using environment variables.
 - **Security**: Sensitive information is managed using environment variables and Kubernetes Secrets.
 - **Documentation**: The project is well-documented to facilitate onboarding and maintenance.
+
+- ..
